@@ -47,7 +47,7 @@
 47	туалета	туалет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@yuad1986m-words#@yuad1986m#00:00:42.390#00:00:42.813
 48	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@yuad1986m-words#@yuad1986m#00:00:42.813#00:00:43.236
 49	/	/	PUNCT	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:00:43.236#00:00:43.659
-50	аа	а	INTJ	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@yuad1986m-words#@yuad1986m#00:00:43.659#00:00:44.100
+50	аа	аа	INTJ	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:00:43.659#00:00:44.100
 51	полтора	полтора	NUM	_	Case=Acc|Gender=Masc	_	_	_	@yuad1986m-words#@yuad1986m#00:00:44.325#00:00:44.681
 52	десятка	десяток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@yuad1986m-words#@yuad1986m#00:00:44.681#00:00:45.037
 53	миллионов	миллион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	@yuad1986m-words#@yuad1986m#00:00:45.037#00:00:45.393
@@ -60,7 +60,7 @@
 60	это	этот	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@yuad1986m-words#@yuad1986m#00:00:47.529#00:00:47.885
 61	рост	рост	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@yuad1986m-words#@yuad1986m#00:00:47.885#00:00:48.241
 62	?	?	PUNCT	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:00:48.241#00:00:48.600
-63	аа	а	INTJ	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:00:55.475#00:00:56.225
+63	аа	аа	INTJ	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:00:55.475#00:00:56.225
 64	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@yuad1986m-words#@yuad1986m#00:00:59.199#00:00:59.454
 65	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@yuad1986m-words#@yuad1986m#00:00:59.454#00:00:59.709
 66	когда	когда	SCONJ	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:00:59.709#00:00:59.964
@@ -169,7 +169,7 @@
 169	стагнации	стагнация	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:00:09.516#00:00:09.917
 170	/	/	PUNCT	_	_	_	_	_	@smg1971m-words#@smg1971m#00:00:09.917#00:00:10.318
 171	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	@smg1971m-words#@smg1971m#00:00:10.318#00:00:10.719
-172	растёт	раствать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:00:10.719#00:00:11.120
+172	растёт	расти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:00:10.719#00:00:11.120
 173	/	/	PUNCT	_	_	_	_	_	@smg1971m-words#@smg1971m#00:00:11.120#00:00:11.521
 174	но	но	CCONJ	_	_	_	_	_	@smg1971m-words#@smg1971m#00:00:11.521#00:00:11.922
 175	медленно	медленно	ADV	_	Degree=Pos	_	_	_	@smg1971m-words#@smg1971m#00:00:11.922#00:00:12.323
@@ -256,7 +256,7 @@
 256	приходит	приходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:01:05.964#00:01:06.305
 257	/	/	PUNCT	_	_	_	_	_	@smg1971m-words#@smg1971m#00:01:06.305#00:01:06.646
 258	папа	папа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:01:06.646#00:01:06.987
-259	домой	домой	ADV	_	Degree=Pos	_	_	_	@smg1971m-words#@smg1971m#00:01:06.987#00:01:07.328
+259	домой	дом	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:01:06.987#00:01:07.328
 260	/	/	PUNCT	_	_	_	_	_	@smg1971m-words#@smg1971m#00:01:07.328#00:01:07.669
 261	говорит	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:01:07.669#00:01:08.010
 262	сын	сын	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:01:08.010#00:01:08.351
@@ -292,7 +292,7 @@
 292	так	так	ADV	_	Degree=Pos	_	_	_	@smg1971m-words#@smg1971m#00:01:18.240#00:01:18.581
 293	и	и	PART	_	_	_	_	_	@smg1971m-words#@smg1971m#00:01:18.581#00:01:18.922
 294	здесь	здесь	ADV	_	Degree=Pos	_	_	_	@smg1971m-words#@smg1971m#00:01:18.922#00:01:19.263
-295	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:01:19.263#00:01:19.604
+295	есть	есть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:01:19.263#00:01:19.604
 296	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	@smg1971m-words#@smg1971m#00:01:19.604#00:01:19.945
 297	у	у	ADP	_	_	_	_	_	@smg1971m-words#@smg1971m#00:01:19.945#00:01:20.286
 298	которых	который	PRON	_	Case=Gen	_	_	_	@smg1971m-words#@smg1971m#00:01:20.286#00:01:20.627
@@ -605,7 +605,7 @@
 605	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:03:29.005#00:03:29.337
 606	и	и	CCONJ	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:29.337#00:03:29.669
 607	/	/	PUNCT	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:29.669#00:03:30.001
-608	у..	устойчивость	NOUN	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:30.001#00:03:30.333
+608	у..	устойчивость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:03:30.001#00:03:30.333
 609	устойчивость	устойчивость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:03:30.333#00:03:30.665
 610	доллара	доллар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:03:30.665#00:03:30.997
 611	обеспечена	обеспечить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	@smg1971m-words#@smg1971m#00:03:30.997#00:03:31.329
@@ -613,7 +613,7 @@
 613	его	он	DET	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:31.661#00:03:31.993
 614	привязкой	привязка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:03:31.993#00:03:32.325
 615	к	к	ADP	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:32.325#00:03:32.657
-616	золоту	золота	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:03:32.657#00:03:32.989
+616	золоту	золото	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:03:32.657#00:03:32.989
 617	а	а	CCONJ	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:32.989#00:03:33.321
 618	этой	этот	DET	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:03:33.321#00:03:33.653
 619	самой	самый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:03:33.653#00:03:33.985
@@ -658,7 +658,7 @@
 658	в	в	ADP	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:46.601#00:03:46.933
 659	ближайшее	ближайший	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:03:46.933#00:03:47.265
 660	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:03:47.265#00:03:47.597
-661	повысится	повыситься	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	@smg1971m-words#@smg1971m#00:03:47.597#00:03:47.929
+661	повысится	повышаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	@smg1971m-words#@smg1971m#00:03:47.597#00:03:47.929
 662	до	до	ADP	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:47.929#00:03:48.261
 663	пяти	пять	NUM	_	Case=Gen	_	_	_	@smg1971m-words#@smg1971m#00:03:48.261#00:03:48.593
 664	процентов	процент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	@smg1971m-words#@smg1971m#00:03:48.593#00:03:48.925
@@ -690,7 +690,7 @@
 690	номинальных	номинальный	ADJ	_	Case=Loc|Degree=Pos|Number=Plur	_	_	_	@smg1971m-words#@smg1971m#00:03:57.225#00:03:57.557
 691	долларах	доллар	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	_	_	_	@smg1971m-words#@smg1971m#00:03:57.557#00:03:57.889
 692	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:03:57.889#00:03:58.221
-693	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:03:58.221#00:03:58.553
+693	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:03:58.221#00:03:58.553
 694	есть	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:03:58.553#00:03:58.885
 695	прямо	прямо	ADV	_	Degree=Pos	_	_	_	@smg1971m-words#@smg1971m#00:03:58.885#00:03:59.217
 696	вот	вот	PART	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:59.217#00:03:59.549
