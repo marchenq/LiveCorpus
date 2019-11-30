@@ -80,7 +80,7 @@
 80	страшилок	страшилка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	@yuad1986m-words#@yuad1986m#00:02:04.175#00:02:04.557
 81	русского	русский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@yuad1986m-words#@yuad1986m#00:02:04.557#00:02:04.939
 82	/	/	PUNCT	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:02:04.939#00:02:05.321
-83	м	метр	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@yuad1986m-words#@yuad1986m#00:02:05.321#00:02:05.703
+83	м	м	INTJ	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:02:05.321#00:02:05.703
 84	/	/	PUNCT	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:02:05.703#00:02:06.085
 85	ааа	а	INTJ	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:02:06.085#00:02:06.467
 86	/	/	PUNCT	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:02:06.467#00:02:06.849
@@ -100,7 +100,7 @@
 100	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	@yuad1986m-words#@yuad1986m#00:02:12.213#00:02:12.458
 101	ничем	ничто	PRON	_	Case=Ins	_	_	_	@yuad1986m-words#@yuad1986m#00:02:12.458#00:02:12.703
 102	не	не	PART	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:02:12.703#00:02:12.948
-103	п...	почему	ADV	_	Degree=Pos	_	_	_	@yuad1986m-words#@yuad1986m#00:02:12.948#00:02:13.196
+103	п...	подтверждать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	@yuad1986m-words#@yuad1986m#00:02:12.948#00:02:13.196
 104	ну	ну	PART	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:02:13.687#00:02:13.969
 105	почему	почему	ADV	_	Degree=Pos	_	_	_	@yuad1986m-words#@yuad1986m#00:02:13.969#00:02:14.251
 106	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	@yuad1986m-words#@yuad1986m#00:02:14.251#00:02:14.533
