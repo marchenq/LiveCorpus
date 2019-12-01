@@ -245,7 +245,7 @@
 245	растёт	расти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:00:58.521#00:00:58.975
 246	в	в	ADP	_	_	_	_	_	@smg1971m-words#@smg1971m#00:01:01.623#00:01:02.069
 247	сумме	сумма	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:01:02.069#00:01:02.515
-248	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:01:03.236#00:01:03.577
+248	нет	нет	PART	_	_	_	_	_	@smg1971m-words#@smg1971m#00:01:03.236#00:01:03.577
 249	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:01:03.577#00:01:03.918
 250	в	в	ADP	_	_	_	_	_	@smg1971m-words#@smg1971m#00:01:03.918#00:01:04.259
 251	сумме	сумма	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:01:04.259#00:01:04.600
@@ -280,14 +280,14 @@
 280	будешь	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:01:14.148#00:01:14.489
 281	меньше	мало	NUM	_	_	_	_	_	@smg1971m-words#@smg1971m#00:01:14.489#00:01:14.830
 282	пить	пить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:01:14.830#00:01:15.171
-283	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:01:15.171#00:01:15.512
+283	нет	нет	PART	_	_	_	_	_	@smg1971m-words#@smg1971m#00:01:15.171#00:01:15.512
 284	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:01:15.512#00:01:15.853
 285	означает	означать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:01:15.853#00:01:16.194
 286	что	что	SCONJ	_	_	_	_	_	@smg1971m-words#@smg1971m#00:01:16.194#00:01:16.535
 287	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	@smg1971m-words#@smg1971m#00:01:16.535#00:01:16.876
 288	будешь	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:01:16.876#00:01:17.217
 289	меньше	мало	NUM	_	_	_	_	_	@smg1971m-words#@smg1971m#00:01:17.217#00:01:17.558
-290	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:01:17.558#00:01:17.899
+290	есть	есть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:01:17.558#00:01:17.899
 291	/	/	PUNCT	_	_	_	_	_	@smg1971m-words#@smg1971m#00:01:17.899#00:01:18.240
 292	так	так	ADV	_	Degree=Pos	_	_	_	@smg1971m-words#@smg1971m#00:01:18.240#00:01:18.581
 293	и	и	PART	_	_	_	_	_	@smg1971m-words#@smg1971m#00:01:18.581#00:01:18.922
@@ -425,7 +425,7 @@
 425	да	да	PART	_	_	_	_	_	@smg1971m-words#@smg1971m#00:02:15.833#00:02:16.067
 426	да	да	PART	_	_	_	_	_	@smg1971m-words#@smg1971m#00:02:17.924#00:02:18.383
 427	#смеется#	#смеется#	X	_	_	_	_	_	@smg1971m-words#@smg1971m#00:02:21.523#00:02:21.895
-428	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:02:21.895#00:02:22.267
+428	нет	нет	PART	_	_	_	_	_	@smg1971m-words#@smg1971m#00:02:21.895#00:02:22.267
 429	/	/	PUNCT	_	_	_	_	_	@smg1971m-words#@smg1971m#00:02:22.267#00:02:22.639
 430	э	э	INTJ	_	_	_	_	_	@smg1971m-words#@smg1971m#00:02:22.639#00:02:23.011
 431	/	/	PUNCT	_	_	_	_	_	@smg1971m-words#@smg1971m#00:02:23.011#00:02:23.383
