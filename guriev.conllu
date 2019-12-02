@@ -47,7 +47,7 @@
 47	туалета	туалет	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@yuad1986m-words#@yuad1986m#00:00:42.390#00:00:42.813
 48	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@yuad1986m-words#@yuad1986m#00:00:42.813#00:00:43.236
 49	/	/	PUNCT	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:00:43.236#00:00:43.659
-50	аа	аа	INTJ	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:00:43.659#00:00:44.100
+50	аа	а	INTJ	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:00:43.659#00:00:44.100
 51	полтора	полтора	NUM	_	Case=Acc|Gender=Masc	_	_	_	@yuad1986m-words#@yuad1986m#00:00:44.325#00:00:44.681
 52	десятка	десяток	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@yuad1986m-words#@yuad1986m#00:00:44.681#00:00:45.037
 53	миллионов	миллион	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	@yuad1986m-words#@yuad1986m#00:00:45.037#00:00:45.393
@@ -518,7 +518,7 @@
 518	и	и	CCONJ	_	_	_	_	_	@smg1971m-words#@smg1971m#00:02:55.375#00:02:55.747
 519	поэтому	поэтому	ADV	_	Degree=Pos	_	_	_	@smg1971m-words#@smg1971m#00:02:55.747#00:02:56.119
 520	/	/	PUNCT	_	_	_	_	_	@smg1971m-words#@smg1971m#00:02:56.119#00:02:56.491
-521	а	а	CCONJ	_	_	_	_	_	@smg1971m-words#@smg1971m#00:02:56.491#00:02:56.863
+521	а	а	INTJ	_	_	_	_	_	@smg1971m-words#@smg1971m#00:02:56.491#00:02:56.863
 522	/	/	PUNCT	_	_	_	_	_	@smg1971m-words#@smg1971m#00:02:56.863#00:02:57.235
 523	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	@smg1971m-words#@smg1971m#00:02:57.235#00:02:57.607
 524	знаете	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@smg1971m-words#@smg1971m#00:02:57.607#00:02:57.979
@@ -592,7 +592,7 @@
 592	стандарта	стандарт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:03:24.689#00:03:25.021
 593	но	но	CCONJ	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:25.021#00:03:25.353
 594	/	/	PUNCT	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:25.353#00:03:25.685
-595	ии	ии	X	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:25.685#00:03:26.017
+595	ии	и	INTJ	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:25.685#00:03:26.017
 596	/	/	PUNCT	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:26.017#00:03:26.349
 597	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	@smg1971m-words#@smg1971m#00:03:26.349#00:03:26.681
 598	уже	уже	ADV	_	Degree=Pos	_	_	_	@smg1971m-words#@smg1971m#00:03:26.681#00:03:27.013
@@ -640,7 +640,7 @@
 640	что	что	SCONJ	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:40.625#00:03:40.957
 641	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:03:40.957#00:03:41.289
 642	так	так	ADV	_	Degree=Pos	_	_	_	@smg1971m-words#@smg1971m#00:03:41.289#00:03:41.621
-643	и	и	PART	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:41.621#00:03:41.953
+643	и	и	CCONJ	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:41.621#00:03:41.953
 644	более	более	ADV	_	Degree=Cmp	_	_	_	@smg1971m-words#@smg1971m#00:03:41.953#00:03:42.285
 645	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	@smg1971m-words#@smg1971m#00:03:42.285#00:03:42.617
 646	если	если	SCONJ	_	_	_	_	_	@smg1971m-words#@smg1971m#00:03:42.617#00:03:42.949
