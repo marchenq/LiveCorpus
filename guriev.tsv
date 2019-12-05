@@ -1,3 +1,4 @@
+Id	Form	Lemma	UPosTag	XPosTag	Feats	Head	DepRel	Deps	Misc
 1	к	к	ADP	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:00:00.010#00:00:00.480
 2	экономике	экономика	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	@yuad1986m-words#@yuad1986m#00:00:00.480#00:00:00.950
 3	на	на	ADP	_	_	_	_	_	@yuad1986m-words#@yuad1986m#00:00:01.775#00:00:02.076
